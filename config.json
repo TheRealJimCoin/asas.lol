@@ -1,0 +1,41 @@
+{
+    "domain": "https://asas.lol/",
+    "algod": {
+        "server": "https://mainnet-api.algonode.cloud/",
+        "port": "",
+        "token": "",
+        "network": "MainNet"
+    },
+    "indexer": {
+        "server": "https://mainnet-idx.algonode.cloud",
+        "port": "",
+        "token": ""
+    },
+    "ipfs": {
+        "display": "https://cloudflare-ipfs.com/ipfs/",
+        "ipfsGateway": "https://ipfs.algonode.xyz/ipfs/",
+        "token": ""
+    },
+    "explorer": "allo.info",
+    "application": {
+        "admin_addr": "VBRMVXJ6QTEQGNLN55ZUEQULUIQWJPP2DLZPGTMWZY7UGTZ737YM7MOOIQ",
+        "admin_addr2": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "admin_addr3": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "app_id": 82774389,
+        "nftkey_id": 1119109348,
+        "buyback_addr": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "disp_addr": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "burn_addr": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "owner_addr": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "owner_addr2": "OWD4NAHLPXL2D6R4VDMYPCS6DJYMZH6A7ILUO76JGH4ODFEBRYVRO43VNA",
+        "owner_addr3": "NSZXGRSZZV4SPWR2QO4EQMPZ4ANQINAYDJHLTG4ZCHUVPEIFYJ4GOYI37Q",
+        "owner_addr4": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "name": "ASAS.LOL",
+        "unit": "ASAS",
+        "fee_amt": 1000
+    },
+    "dev": {
+        "debug_txns": false,
+        "accounts": {}
+    }
+}
